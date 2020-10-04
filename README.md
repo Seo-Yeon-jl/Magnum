@@ -1,0 +1,2 @@
+# Magnum
+Sequence Generator 
